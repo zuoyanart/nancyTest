@@ -1,0 +1,15 @@
+F:\net\nancy\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\net\nancy\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\net\nancy\WebApplication1\WebApplication1\bin\Nancy.dll
+F:\net\nancy\WebApplication1\WebApplication1\bin\Nancy.Hosting.Aspnet.dll
+F:\net\nancy\WebApplication1\WebApplication1\bin\Nancy.ViewEngines.Razor.dll
+F:\net\nancy\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\net\nancy\WebApplication1\WebApplication1\bin\Nancy.xml
+F:\net\nancy\WebApplication1\WebApplication1\bin\Nancy.Hosting.Aspnet.xml
+F:\net\nancy\WebApplication1\WebApplication1\bin\Nancy.ViewEngines.Razor.xml
+F:\net\nancy\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\net\nancy\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\net\nancy\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\net\nancy\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\net\nancy\WebApplication1\WebApplication1\bin\RazorEngine.dll
+F:\net\nancy\WebApplication1\WebApplication1\bin\RazorEngine.xml
